@@ -1,0 +1,4 @@
+Herramienta: ImageGen, edición sobre foto 19.38.53.
+Retrato principal: composición enderezada, fondo crema con vegetación tenue, luz natural suave. Se solicitó conservar rostro, edad, expresión y ropa original.
+Originales preservados en la galería; edición guardada como archivo separado.
+Prompt: Preserve recognizable face, age, skin tone, hair, expression and original white/navy outfit. Straighten tilted composition. Replace busy background with warm ivory cream backdrop, subtle linen texture and softly blurred foliage; natural light; centered portrait head to knees; no text, no halo.

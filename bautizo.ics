@@ -1,0 +1,13 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//DigitalPro//Bautizo Carlos Andres//ES
+BEGIN:VEVENT
+UID:carlos-andres-bautizo-20261024@digitalpro
+DTSTAMP:20261014T000000Z
+DTSTART:20261024T211500Z
+SUMMARY:Bautizo de Carlos Andrés Condori Cuellar
+LOCATION:Parroquia Cristo Rey - Calle Diego de Almagro y Nueva Castilla
+DESCRIPTION:Recepción al finalizar la ceremonia en Salón de Eventos Hakuna Matata.
+URL:https://maps.app.goo.gl/z2C9Bdr2QEmNjR2m9
+END:VEVENT
+END:VCALENDAR
